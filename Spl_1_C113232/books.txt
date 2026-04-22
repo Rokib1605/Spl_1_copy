@@ -1,0 +1,16 @@
+1|Harry Potter and the Philosopher's Stone|J.K. Rowling|HP1001|Fantasy|6|0|14
+2|Harry Potter and the Chamber of Secrets|J.K. Rowling|HP1002|Fantasy|6|3|9
+3|Harry Potter and the Prisoner of Azkaban|J.K. Rowling|HP1003|Fantasy|5|2|8
+4|The Hobbit|J.R.R. Tolkien|LOTR1001|Fantasy|5|4|7
+5|The Lord of the Rings: Fellowship of the Ring|J.R.R. Tolkien|LOTR1002|Fantasy|6|5|9
+6|The Lord of the Rings: Two Towers|J.R.R. Tolkien|LOTR1003|Fantasy|6|3|8
+7|Sherlock Holmes: A Study in Scarlet|Arthur Conan Doyle|SH1001|Mystery|5|2|7
+8|Sherlock Holmes: The Hound of the Baskervilles|Arthur Conan Doyle|SH1002|Mystery|4|1|7
+9|A Game of Thrones|George R.R. Martin|GOT1001|Fantasy|6|2|11
+10|A Clash of Kings|George R.R. Martin|GOT1002|Fantasy|5|1|9
+11|The Da Vinci Code|Dan Brown|DB1001|Thriller|5|4|10
+12|Angels and Demons|Dan Brown|DB1002|Thriller|4|2|8
+13|The Alchemist|Paulo Coelho|PC1001|Fiction|6|5|12
+14|To Kill a Mockingbird|Harper Lee|HL1001|Fiction|5|4|9
+15|1984|George Orwell|GO1001|Dystopian|6|3|10
+16|Animal Farm|George Orwell|GO1002|Dystopian|5|2|8
